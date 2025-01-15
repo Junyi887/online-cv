@@ -15,10 +15,10 @@ sidebar:
     # Sidebar links
     email: jguo8@nd.edu
     phone: 
-    timezone: America/New York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: 
-    linkedin: 
+    linkedin: Junyi Guo
     xing: 
     github: Junyi887 # add your username without '@' sign
     telegram: # add your nickname without '@' sign
@@ -74,6 +74,18 @@ education:
         time: 2018 - 2022
         details: 
 
+publications:
+    title: Publications
+    intro: 
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+    papers:
+      - title: Neural equilibria for long-term prediction of nonlinear conservation laws
+        link: "https://arxiv.org/pdf/2501.06933"
+        authors: J. Antonio Lara Benitez, Junyi Guo, Kareem Hegazy, Ivan Dokmanić, Michael W. Mahoney, Maarten V. de Hoop
+        conference: Preprint
+      # - title: SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning
 # experiences:
 #     title: Experiences
 #     info:
@@ -202,17 +214,7 @@ education:
     #     link: "#"
     #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
