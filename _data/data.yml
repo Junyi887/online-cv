@@ -86,7 +86,7 @@ publications:
         authors: J. Antonio Lara Benitez, Junyi Guo, Kareem Hegazy, Ivan Dokmanić, Michael W. Mahoney, Maarten V. de Hoop
         conference: Preprint
 
-      - title: SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning
+      - title: "SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning"
         link: "https://openreview.net/forum?id=OJ6zUcWldW"
         authors: Pu Ren and N. Benjamin Erichson and Junyi Guo and Shashank Subramanian and Omer San and Zarija Lukic and Michael W. Mahoney
         conference: Journal of Data-centric Machine Learning Research, 2025
