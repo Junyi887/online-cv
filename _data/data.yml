@@ -81,6 +81,11 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
+      - title: Conditional neural field for spatial dimension reduction of turbulence data: a comparison study
+        link: "https://arxiv.org/abs/2510.25135"
+        authors: Junyi Guo, Pan Du, Xiantao Fan, Yahui Li, Jian-Xun Wang
+        conference: Preprint
+        
       - title: Neural equilibria for long-term prediction of nonlinear conservation laws
         link: "https://arxiv.org/pdf/2501.06933"
         authors: J. Antonio Lara Benitez, Junyi Guo, Kareem Hegazy, Ivan Dokmanić, Michael W. Mahoney, Maarten V. de Hoop
@@ -88,7 +93,7 @@ publications:
 
       - title: "SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning"
         link: "https://openreview.net/forum?id=OJ6zUcWldW"
-        authors: Pu Ren and N. Benjamin Erichson and Junyi Guo and Shashank Subramanian and Omer San and Zarija Lukic and Michael W. Mahoney
+        authors: Pu Ren, N. Benjamin Erichson, Junyi Guo, Shashank Subramanian, Omer San, Zarija Lukic, Michael W. Mahoney
         conference: Journal of Data-centric Machine Learning Research, 2025
         
 
