@@ -82,9 +82,9 @@ publications:
 #       bibendum fringilla a eu lectus.
     papers:
       - title: "Conditional neural field for spatial dimension reduction of turbulence data: a comparison study"
-        link: "https://arxiv.org/abs/2510.25135"
+        link: "https://doi.org/10.1063/5.0310238"
         authors: Junyi Guo, Pan Du, Xiantao Fan, Yahui Li, Jian-Xun Wang
-        conference: Preprint
+        conference: Physics of Fluids, 2026
         
       - title: "Neural equilibria for long-term prediction of nonlinear conservation laws"
         link: "https://arxiv.org/pdf/2501.06933"
